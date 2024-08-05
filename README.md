@@ -1,3 +1,5 @@
+https://medium.com/@usmanashraf1510/custom-gpt-to-send-whatsapp-messages-with-zapier-3082d029c677
+
 # Custom GPT to Send WhatsApp Messages with Zapier
 
 
